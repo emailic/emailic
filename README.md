@@ -8,5 +8,5 @@ Welcome to my account! Even though I've been in the fields of machine learning a
 - 👯 I’m looking to collaborate on machine learning  and data science projects. I've been in the field for about 3 years now.
 - 🤔 I’m looking for help with learning how to contribute to open source projects.
 - 💬 Ask me about computer vision, NLP, dimensinality reduction, time series, classification and clustering algorithms, pandas, Pytorch, Tensorflow, Keras, SQL...
-- 📫 How to reach me: preferably by [email](ema.ilic9@gmail.com) which you can find in my profile info :) 
+- 📫 How to reach me: preferably by email which you can find in my profile info :) I'm also active on [Linkedin](https://www.linkedin.com/in/ema-ilic/)
 - ⚡ Fun fact: I love doing calisthenics! 
