@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emailic&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
+
+
 Welcome to my account! Even though I've been in the fields of machine learning and data science for a while now, I'm still only learning all the ways to use Github. In the months to come I'd like to start contributing more to the open source, and understand well the dynamics and the potenital of this platform. Here's something little about me:
 
 
@@ -11,4 +14,14 @@ Welcome to my account! Even though I've been in the fields of machine learning a
 - 📫 How to reach me: preferably by email which you can find in my profile info :) I'm also active on [Linkedin](https://www.linkedin.com/in/ema-ilic/)
 - ⚡ Fun fact: I love doing calisthenics! 
 
-<img src="https://github-readme-stats.vercel.app/api?username=emailic&&show_icons=true&title_color=D60F79&icon_color=bb2acf&text_color=BA0163&bg_color=E5D8B5">
+
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emailic&theme=solarized"/>
+</p>
+
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=emailic&show_icons=true&theme=solarized" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=emailic&theme=solarized" />
+</p>
