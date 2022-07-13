@@ -1,10 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emailic&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
+<p align="center">
 
 Welcome to my account! Even though I've been in the fields of machine learning and data science for a while now, I'm still only learning all the ways to use Github. In the months to come I'd like to start contributing more to the open source, and understand well the dynamics and the potenital of this platform. Here's something little about me:
-
+</p>
 
 - 🔭 I’m currently working on a computer vision project: I'm deploying YOLOv5 by Ultralytics on a microplastics dataset in order to automatically count and classify the particles!
 - 🌱 I’m currently learning how to contribute more to the Github community. 
