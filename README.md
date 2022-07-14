@@ -26,3 +26,9 @@ Welcome to my account! Even though I've been in the fields of machine learning a
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=emailic&show_icons=true&theme=solarized" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=emailic&theme=solarized" />
 </p>
+
+<div align="center">
+
+### Show some 💚 by starring some of the repositories!
+
+</div>
