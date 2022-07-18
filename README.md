@@ -29,6 +29,12 @@ Welcome to my account! Even though I've been in the fields of machine learning a
 
 <div align="center">
 
+[![](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/ema-ilic/) 
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ema.ilic9@gmail.com) 
+
+
+
+
 ### Show some 💚 by starring some of the repositories!
 
 
