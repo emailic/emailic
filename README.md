@@ -8,7 +8,7 @@ Welcome to my account! Even though I've been in the fields of machine learning a
 </p>
 
 - 🔭 I’m currently working on a computer vision project: I'm deploying YOLOv5 by Ultralytics on a microplastics dataset in order to automatically count and classify the particles!
-- 🌱 I’m currently learning how to contribute more to the Github community. 
+- 🌱 I’m currently learning how to contribute more to the Github community
 - 👯 I’m looking to collaborate on machine learning  and data science projects
 <!--  - 🤔 I’m looking for help with -->
 - 💬 Ask me about computer vision, NLP, dimensinality reduction, time series, classification and clustering algorithms, pandas, Pytorch, Tensorflow, Keras, SQL...
