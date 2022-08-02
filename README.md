@@ -12,7 +12,7 @@ Welcome to my account! Even though I've been in the fields of machine learning a
 - 👯 I’m looking to collaborate on machine learning  and data science projects <!--  - 🤔 I’m looking for help with -->
 - 💬 Ask me about computer vision, NLP, dimensinality reduction, time series, classification and clustering algorithms, pandas, Pytorch, Tensorflow, Keras, SQL...
 - 📫 How to reach me: preferably by email which you can find in my profile info :) I'm also active on [Linkedin](https://www.linkedin.com/in/ema-ilic/)
-- ⚡ Fun fact: I love calisthenics
+- ⚡ Fun fact: I love calisthenics.
 
 
 ## 💳 Github Profile Summary Card
