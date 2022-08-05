@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emailic&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emailic&label=Views&color=blue&style=plastic&style=for-the-badge" alt="emailic" /> </p>
 
 <p align="center">
 
