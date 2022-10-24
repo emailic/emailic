@@ -36,6 +36,6 @@ Welcome to my account! Even though I've been in the fields of machine learning a
 
 ### Show some 💚 by starring some of the repositories !
 
-PS: Microplastics YOLOv5 repo is currently private. Sorry for the inconvenience, it will be public again soon!
+PS: Microplastics YOLOv5 repo is available again 💃 💃 💃 
 
 </div>
