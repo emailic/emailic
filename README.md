@@ -22,7 +22,6 @@ Welcome to my account! Here's something little about me:
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=emailic&show_icons=true&theme=transparent" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=emailic&theme=solarized" />
 </p>
 
