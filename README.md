@@ -7,7 +7,7 @@
 Welcome to my account! Here's something little about me:
 </p>
 
-- 🔭 I’m currently working on something secret ✨
+- 🔭 I’m currently working on a text generation project @[CHAPTR](https://www.chaptr.xyz/) ✨
 - 🌱 I’m currently learning about text generation and prompt engineering 
 - 👯 I’m looking to collaborate on machine learning and data science projects <!--  - 🤔 I’m looking for help with -->
 - 💬 Ask me about computer vision, NLP, dimensinality reduction, time series classification and forecasting, text generation, classification and clustering algorithms, pandas, Pytorch, Tensorflow, Keras, SQL...
