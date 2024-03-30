@@ -8,7 +8,7 @@ Welcome to my account! Here's something little about me:
 </p>
 
 - 🔭 I’m currently working on a text and image generation project @[CHAPTR](https://www.chaptr.xyz/) ✨
-- 🌱 I’m currently learning new LLM research
+- 🌱 I’m currently learning about new LLM research
 - 👯 I’m looking to collaborate on LLM-related projects, preferably related to Croatian language <!--  - 🤔 I’m looking for help with -->
 - 💬 Ask me about computer vision, NLP, dimensinality reduction, time series classification and forecasting, text generation, classification and clustering algorithms, pandas, Pytorch, Tensorflow, Keras, SQL...
 - 📫 How to reach me: preferably by email which you can find in my profile info. I'm also active on [Linkedin](https://www.linkedin.com/in/ema-ilic/)
@@ -33,8 +33,6 @@ Welcome to my account! Here's something little about me:
 
 
 
-### Show some 💚 by starring some of the repositories !
-
-PS: Microplastics YOLOv5 repo is available again 💃 💃 💃 
+### Show some 💚 by staring some of the repositories !
 
 </div>
