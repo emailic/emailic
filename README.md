@@ -12,7 +12,7 @@ Welcome to my account! Here's something little about me:
 - 👯 I’m looking to collaborate on LLM-related projects, preferably related to Croatian language <!--  - 🤔 I’m looking for help with -->
 - 💬 Ask me about computer vision, NLP, dimensinality reduction, time series classification and forecasting, text generation, classification and clustering algorithms, pandas, Pytorch, Tensorflow, Keras, SQL...
 - 📫 How to reach me: preferably by email which you can find in my profile info. I'm also active on [Linkedin](https://www.linkedin.com/in/ema-ilic/)
-- ⚡ Fun fact: I love calisthenics
+- ⚡ Fun fact: I love calisthenics!
 
 
 ## 💳 Github Profile Summary Card
