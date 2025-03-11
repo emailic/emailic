@@ -8,11 +8,9 @@ Welcome to my account! Here's something little about me:
 </p>
 
 - 🔭 I’m currently working on a text and image generation project @[CHAPTR](https://www.chaptr.xyz/) ✨
-- 🌱 I’m currently learning about new LLM research
-- 👯 I’m looking to collaborate on LLM-related projects, preferably related to Croatian language <!--  - 🤔 I’m looking for help with -->
-- 💬 Ask me about computer vision, NLP, dimensinality reduction, time series classification and forecasting, text generation, classification and clustering algorithms, pandas, Pytorch, Tensorflow, Keras, SQL...
+- 🌱 I’m currently learning about new LLM research papers and writing about that on my [Medium](https://medium.com/@ema.ilic9)
+- 💬 Ask me about RAG, LLMs, MLOps, AI System Architecture&Design, vector databases, NLP, computer vision, dimensinality reduction, time series classification and forecasting, text generation, classification and clustering algorithms, langchain, pinecone, pandas, Pytorch, Tensorflow, Keras, SQL...
 - 📫 How to reach me: preferably by email which you can find in my profile info. I'm also active on [Linkedin](https://www.linkedin.com/in/ema-ilic/)
-- ⚡ Fun fact: I love calisthenics!
 
 
 ## 💳 Github Profile Summary Card
